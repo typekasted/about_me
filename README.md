@@ -1,4 +1,4 @@
-‣ 👋 Hi, I’m Anish Arya ( GitHub: @type-casted )
+‣ 👋 Hi, I’m Anish Arya ( GitHub: @typekasted )
 
 ‣ 👀 I’m interested in Data and Decision Science | Machine Learning | Applied & Computational Intelligence | Business Intelligence | Data Structures | System Design | Database Management
 
